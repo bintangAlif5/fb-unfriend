@@ -2,9 +2,9 @@
 ga bisa make? 
 - wa aja anjeng : 0895422939836
 - fb : www.facebook.com/BintangAlifff
-- Instagram : wwww.instagram.com/bintang_alif16
--
-# To Install
+- Instagram : www.instagram.com/bintang_alif16
+
+- _To Install_
 -
 ```
 $ apt update && apt upgrade
