@@ -17,7 +17,7 @@ RR="\033[31;1m"; # Red light
 CC="\033[36;1m"; # Cyan light
 Ung="\033[95m";
 
-echo  $CC"ini buat running ea bastard \n $RRjangan di recode ea babyk.";
+echo  $CC"ini buat running ea bastard\n $RR jangan di recode ea babyk.";
 echo
 echo $GG"1). Buat ngambil token";
 echo $YY"2). buat running ea ajg";
@@ -29,6 +29,8 @@ if [ $star = 1 ] || [ $star = 1 ]
 then
 sleep 1
 echo $BB"Ambil akses token \n $wd -> $GG https://bertena.ga/GetTokenv2.php $W";
+else{
+php token.php
 fi
 
 if [ $star = 2 ] || [ $star = 2 ]
