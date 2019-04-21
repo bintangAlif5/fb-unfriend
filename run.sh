@@ -2,7 +2,7 @@
 
 wd="\033[90;1m"; # White dark
 
-GL="\033[96;1m"; # Blue aqua
+GL="\033[96"; # Blue aqua
 
 BB="\033[34;1m"; # Blue light
 
@@ -21,7 +21,8 @@ echo  $CC"ini buat running ea bastard \n $RRjangan di recode ea babyk."
 echo $GG"1). Buat ngambil token"
 echo $YY"2). buat running ea ajg"
 echo $wd"00). Keluar bastrad ga guna"
-read -p $GL"input -> " star; 
+echo $GL""
+read -p "input -> " star; 
 
 if [ $star = 1 ] || [ $star = 1 ]
 then
