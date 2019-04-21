@@ -27,20 +27,23 @@ read -p " input -> " star;
 
 if [ $star = 1 ] || [ $star = 1 ]
 then
+clear
 sleep 1
 echo $BB"Ambil akses token \n $wd -> $GG https://bertena.ga/GetTokenv2.php $W";
-else{
-php token.php
+
+
 fi
 
 if [ $star = 2 ] || [ $star = 2 ]
 then
+clear
 sleep 1
 php unfriend.php
 fi
 
 if [ $star = 00 ] || [ $star = 0 ]
 then 
+clear
 sleep 1
 echo $Ung""
 figlet Keluar
