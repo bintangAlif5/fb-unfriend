@@ -14,18 +14,16 @@ sleep 2
 echo $RR"▒▒▒▒▒▒▒▒▄▄▄▄▄▄▄▄▒▒▒▒▒▒"
 echo "▒▒█▒▒▒▄██████████▄▒▒▒▒"
 echo "▒█▐▒▒▒████████████▒▒▒▒"
-echo "▒▌▐▒▒██▄▀██████▀▄██▒▒▒" $U"Created : Star@ScA√$RR"
-echo "▐┼▐▒▒██▄▄▄▄██▄▄▄▄██▒▒▒" $CL"From:" $GL"Sunda Cyber Army$YY"
-echo $YY"▐┼▐▒▒██████████████▒▒▒"
-echo "▐▄▐████─▀▐▐▀█─█─▌▐██▄▒ "
-echo "▒▒█████──────────▐███▌       "
+echo "▒▌▐▒▒██▄▀██████▀▄██▒▒▒" $U" Created : Star@ScA√$RR"
+echo "▐┼▐▒▒██▄▄▄▄██▄▄▄▄██▒▒▒" $CL" From:" $GG"Sunda Cyber Army$YY"
+echo $YY"▐┼▐▒▒██████████████▒▒▒" $W" Facebook Auto Unfriend$YY"
+echo "▐▄▐████─▀▐▐▀█─█─▌▐██▄▒ " "$RR InActive Users$YY"
+echo "▒▒█████──────────▐███▌ "
 echo "▒▒█▀▀██▄█─▄───▐─▄███▀▒"
 echo $GG"▒▒█▒▒███████▄██████▒▒▒"
 echo "▒▒▒▒▒██████████████▒▒▒"
 echo "▒▒▒▒▒█████████▐▌██▌▒▒▒"
 echo "▒▒▒▒▒▐▀▐▒▌▀█▀▒▐▒█▒▒▒▒▒"
 echo "▒▒▒▒▒▒▒▒▒▒▒▐▒▒▒▒▌▒▒▒▒▒$W"
-echo $W"Facebook Auto Unfriend";
-echo $GL"InActive Users$W";
 echo "_____________________________________";
 echo ""
