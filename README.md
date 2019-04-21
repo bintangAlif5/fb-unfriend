@@ -2,12 +2,11 @@
 ga bisa make? 
 - wa aja anjeng : 0895422939836
 - fb : www.facebook.com/BintangAlifff
-- Instagram : www.instagram.com/bintang_alif16 \n
-selain itu clone 😇
+- Instagram : www.instagram.com/bintang_alif16 
+*selain itu clone 😇
 
 
 - _To Install_
--
 ```
 $ apt update && apt upgrade
 $ pkg install php 
