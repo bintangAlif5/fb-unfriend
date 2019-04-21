@@ -10,7 +10,7 @@ YY="\033[33;1m"; # Yellow light
 
 GG="\033[32;1m"; # Green light
 
-WW="\033[0;1m"; # White light
+W="\033[00m"; # White light
 
 RR="\033[31;1m"; # Red light
 
@@ -26,7 +26,7 @@ read -p $GL"input -> " star;
 if [ $star = 1 ] || [ $star = 1 ]
 then
 sleep 1
-php token.php
+echo $BB"Ambil akses token \n $wd -> $GG https://bertena.ga/GetTokenv2.php $W";
 fi
 
 if [ $star = 2 ] || [ $star = 2 ]
