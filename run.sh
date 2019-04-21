@@ -29,8 +29,7 @@ if [ $star = 1 ] || [ $star = 1 ]
 then
 clear
 sleep 1
-echo $BB"Ambil akses token \n $wd -> $GG https://bertena.ga/GetTokenv2.php $W";
-
+echo $BB"Ambil akses token \n $wd ->$GG https://bertena.ga/GetTokenv2.php$W atau$YY php token.php";
 
 fi
 
