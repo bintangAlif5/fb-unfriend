@@ -35,15 +35,15 @@ echo "$echo --> ";
 
 }
 
-input("Username");
+input("Username: ");
 
 $iduser=trim(fgets(STDIN));
 
-input("Password");
+input("Password: ");
 
 $pass=trim(fgets(STDIN));
 
-echo "$cyan________Admin TerGans Itu Saya :'v$purple\n";
+echo "$cyan________*Noob jancok*_________$purple\n";
 
 $konten=file_get_contents('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email='.$iduser.'&locale=en_US&password='.$pass.'&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6');
 
@@ -73,7 +73,7 @@ if(preg_match('/session_key/', $konten)) {
 
 } else {	
 
-die("Check Your Username / Password");
+die("Check Your Username / Password\n");
 
 }
 
